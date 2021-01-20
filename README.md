@@ -6,3 +6,7 @@ This project can be used to determine weather just by typing in the city you wan
 * CSS
 * Javascript
 * node js using express
+## API Used
+* open weather map API
+## Practical Working of the Weather App
+
